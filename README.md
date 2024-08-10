@@ -7,3 +7,5 @@ Then, a hidden button is pressed, which gives another clue, and successive press
 Finally, four banners must be placed in the correct order, which opens the door into the next room.
 
 In the future, I would avoid using tilt switches as they are unreliable in their current format and trigger multiple calls at a time.
+
+In order for the program to parse all files correctly, place this repository on the pi desktop as-is, and you'd probably need to change the root folder name in the newmagic.py file as well
